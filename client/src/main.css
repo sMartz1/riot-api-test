@@ -5,3 +5,22 @@
 .App{
 	padding: 0;
 }
+
+ .search_icon{
+ 
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    margin-left: 2%;
+    color:white;
+    text-decoration:none;
+    transition: 1s linear;
+    }
+
+    .search_icon:hover{
+ 
+
+     color:black;
+    }

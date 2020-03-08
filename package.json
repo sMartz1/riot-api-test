@@ -10,7 +10,9 @@
     "axios": "^0.19.2",
     "dotenv": "^8.2.0",
     "express": "latest",
-    "nodemon": "^2.0.2"
+    "nodemon": "^2.0.2",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0"
   },
   "devDependencies": {
     "concurrently": "latest"
